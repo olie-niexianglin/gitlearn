@@ -3,4 +3,8 @@ Git is free software.
 Git has a mutable index called stage.
 My stupid boss still prefers SVN.git
 Creating a new branch is quick.
+
 Creating a new branch is quick AND merge.
+Creating a new branch is quick AND simple.
+Creating a new branch is quick AND demofromfeature1.
+
